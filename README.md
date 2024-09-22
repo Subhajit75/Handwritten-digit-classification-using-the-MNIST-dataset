@@ -1,2 +1,2 @@
 # Handwritten-digit-classification-using-the-MNIST-dataset
-Handwritten digit classification using the MNIST dataset
+The project focuses on building and training a machine learning model for handwritten digit classification using the MNIST dataset. The goal is to classify digits (0-9) based on 28x28 pixel grayscale images. Using Python and PyTorch, the project involves loading the dataset, preprocessing images, defining a neural network, and optimizing the model using Stochastic Gradient Descent (SGD). The model's performance is evaluated with a test set, achieving an accuracy of 92%. The project demonstrates the use of softmax for classification, cross-entropy for error measurement, and essential machine learning workflows like batching and backpropagation.
